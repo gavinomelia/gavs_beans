@@ -9,7 +9,7 @@
    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 </head>
 <body>
-	<a href="index.html">
+	<a href="main.html">
   <div id="logoh1" class="btn">
 	<h1>Gav's Beans</h1>
 </div> 
@@ -20,6 +20,27 @@
 	<p>Creditcard number</p>	<input type="text" name="creditcard number">
 	<p>Address</p>	<input type="text" name="address">
 	<br><br><br><br>
-	<a href="#">Purchase</a>
+
+
+
+<button onclick="myFunction()">Buy it</button>
+
+<script>
+function myFunction()
+{
+var x;
+var r=confirm("Are you sure you want to buy this?");
+if (r==true)
+  {
+  x="You pressed OK!";
+  }
+else
+  {
+  x="You pressed Cancel!";
+  }
+  
+}
+</script>
+
 </body>
 </html>
