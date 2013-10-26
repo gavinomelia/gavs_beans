@@ -1,0 +1,137 @@
+body {
+	font-family: 'Nunito', sans-serif;
+	color: #00B800;
+	background: #000000;
+}
+
+a {
+	color: #2E5CE6;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 1.750em;
+	letter-spacing: -1.5px;
+}
+
+h2 {
+	font-size: 1.500em;
+	color: #00B800;
+}
+
+h3 {
+	color:#2E5CE6;
+}
+
+.btn {
+color: #2E5CE6;
+background: #CF0000;
+padding: 2px 10px;
+margin: 40px 1170px;
+border-radius: 25px;
+text-transform: uppercase;
+}
+
+.btn:hover {
+	background-color: #009900;
+	color: #0000FF;
+}
+
+ul.nav {
+	list-style: none;
+	float: right;
+}
+
+ul.nav li {
+	float: left;
+	margin-left: 20px;
+}
+
+ul.nav li a {
+	color: #2E5CE6;
+}
+
+
+#intro {
+	margin: 50px 0 75px 0px;
+}
+
+#new-cupcakes img {
+	border: 8px solid #FAF3BC;
+	margin: 0 0 20px 0;
+}
+
+#featured-cupcake img {
+    border: 8px solid #FAF3BC;
+}
+
+#copyright {
+	border-top: 8px solid #2A0400;
+	padding: 10px 0px;
+	margin: 10px 0px;
+	text-align: center;
+}
+
+div.red {
+	color: #CF0000;
+}
+
+.fred {
+	font-size: 1.300em;
+}
+
+div.green {
+	color: #1F7A1F;
+}
+
+div.blue {
+	color: #2E5CE6;
+}
+
+div.green2 {
+	color:#00B800;
+}
+
+#coffee img {
+    border: 8px solid #00B800;
+    margin-left: 60px;
+}
+
+#coffee {
+	margin-bottom: 50px
+}
+
+
+#about img {
+    border: 8px solid #00B800;
+}
+
+#about {
+	margin-left: 50px
+}
+
+#green_coffee img {
+	 border: 8px solid #00B800;
+}
+
+#green_coffee {
+	margin-bottom: 50px;
+	margin-left: 60px;
+}
+
+#logoh1 {
+	margin-left: 50px;
+}
+
+#bob {
+	margin-left: 425px;
+}
+
+.mainp {
+	margin-left: 50px;
+	border-top: 10px;
+	background-color: #2E5CE6;
+	padding: 10px 0 10px 0;
+}
+
+
