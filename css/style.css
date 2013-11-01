@@ -23,6 +23,10 @@ h3 {
 	color:#2E5CE6;
 }
 
+label {
+	font-size: 1.5em;
+}
+
 .btn {
 color: #2E5CE6;
 background: #CF0000;
